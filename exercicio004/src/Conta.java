@@ -1,5 +1,3 @@
-package banco;
-
 public class Conta {
     private int num_conta;
     private String titular;
@@ -40,3 +38,4 @@ public class Conta {
         this.balanco -= (novo_saque + 5);
     }
 }
+

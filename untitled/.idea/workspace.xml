@@ -5,9 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89506f76-58c7-4a9f-ac36-3a2c26437613" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/banco/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/banco/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio004/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio004/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio004/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio004/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio004/exercicio004.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio004/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio004/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio004/src/ex01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio004/src/ex02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio004/src/ex03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio004/src/ex04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio004/src/triangulo/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basico/biblioteca/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basico/biblioteca/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basico/funcionarios/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basico/funcionarios/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/restaurante/cliente/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/restaurante/funcionario/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/restaurante/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/restaurante/pedido/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/restaurante/produto/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/banco/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basico/banco/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/banco/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basico/banco/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estacionamento/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basico/estacionamento/Carro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +65,11 @@
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Maria Luisa/IdeaProjects/java/untitled/src/Main.java&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>

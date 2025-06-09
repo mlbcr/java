@@ -1,4 +1,4 @@
-package estacionamento;
+package basico.estacionamento;
 
 import java.util.List;
 import java.util.ArrayList;
